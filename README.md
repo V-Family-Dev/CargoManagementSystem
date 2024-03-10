@@ -6,7 +6,8 @@ The Cargo Management System is a comprehensive solution designed to streamline a
 
 ## 🌐 Hosted Version
 
-You can access the hosted version of the Cargo Management System at [https://crgsysvfav.f1ads.com/](https://crgsysvfav.f1ads.com/)
+You can access the hosted version of the Cargo Management System at [https://crgsysvfav.f1ads.com/](https://crgsysvfav.f1ads.com/) as a super admin
+You can access the hosted version of the Cargo Management System at [https://crgsysvfav.f1ads.com/]([[https://crgsysvfav.f1ads.com/](https://crgsysvfav.f1ads.com/)](https://crgsysvfav.f1ads.com/)) as a normal user.
 
 ## 🚚 Features
 
